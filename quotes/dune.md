@@ -3,3 +3,5 @@
 - lisan
 - how is the knift
 - hello
+- spice must flow
+- fear is the fear killer
